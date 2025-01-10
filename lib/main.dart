@@ -31658,9 +31658,9 @@ class YemekSayfasiIzmir extends StatelessWidget {
       'https://cdn.ye-mek.net/App_UI/Img/out/650/2022/09/yufkadan-yalanci-boyoz-resimli-yemek-tarifi(19).jpg',
       'yemekBilgisi':
       'İzmir denildiğinde akla ilk gelen yemeklerden biri olan boyoz temelde bir hamur işi ürünü. Un ve sirke ile hazırlanan ve kendine ait bir hamura sahip olan boyoz, oldukça lezzetli bir alternatif. İzmir’de özellikle sabah kahvaltılarında yaygın olarak tercih edilen boyoz, genellikle yumurta ile satılıyor.',
-      'enlem': 38.43922654243253,
-      'boylam': 27.143869813594247,
-      'restoranIsmi': 'Restoran ismi',
+      'enlem': 38.43923260782366,
+      'boylam': 27.14371822901735,
+      'restoranIsmi': 'Romella Bakery Coffee',
     },
     {
       'isim': 'İzmir Bombası',
@@ -31668,9 +31668,9 @@ class YemekSayfasiIzmir extends StatelessWidget {
       'https://cdn.kisikates.com.tr/image-cache/cache/recipe_main_image_large/https---cdn.kisikates.com.tr/recipe-media/41ac46667d323180dce928ef7d68c973672e86ee.jpeg',
       'yemekBilgisi':
       'Son yılların en sevilen tatlılarından biri haline gelen ve orijinali İzmir’de yapılan İzmir bombası, ince açılmış bir hamur içerisinde bulunan çikolata dolgusu ile hazırlanıyor. Ağızda dağılan eşsiz çikolatanın verdiği lezzet, kesinlikle eşsiz bir deneyim yaşamayı sağlıyor. Bomba adıyla da anılan ve Türkiye’nin farklı yerlerinde karşılaşabileceğiniz bu kurabiyenin orijinal ise İzmir’de yapılıyor.',
-      'enlem': 38.441201060752455,
-      'boylam': 27.14401792680544,
-      'restoranIsmi': 'Restoran ismi',
+      'enlem': 38.44111993442167,
+      'boylam': 27.14394580248135,
+      'restoranIsmi': 'Celebi',
     },
     {
       'isim': 'Şambali Tatlısı',
@@ -31678,9 +31678,9 @@ class YemekSayfasiIzmir extends StatelessWidget {
       'https://image.hurimg.com/i/hurriyet/75/750x422/5ec92fbe7af50710c8ceed3c.jpg',
       'yemekBilgisi':
       'İzmir şambalisi olarak da adlandırılan bu tatlı buğday irmiği, toz şeker, süt, yoğurt, nişasta ve kabartma tozu ile hazırlanan bir tatlı. Tepside pişirilen hamurun üzerine piştikten sonra şerbet dökülmesi ile hazırlanan ve oldukça sevilen bir tatlı olan şambali tatlısı, badem ve fıstık ile süsleniyor. Şerbetli bir tatlı olması sebebiyle besleyici ve doyurucu. Bu sebeple özellikle akşam saatlerinde ve yemekten sonra tercih ediliyor.',
-      'enlem': 38.460943915945364,
-      'boylam': 27.212032085253192,
-      'restoranIsmi': 'Restoran ismi',
+      'enlem': 38.46088862874317,
+      'boylam': 27.211959860784866,
+      'restoranIsmi': 'Big Bubble Waffle Bornova',
     },
     {
       'isim': 'İzmir Köftesi',
@@ -31688,9 +31688,9 @@ class YemekSayfasiIzmir extends StatelessWidget {
       'https://i.lezzet.com.tr/images-xxlarge-recipe/izmir_kofte-22742567-6176-4e66-945b-8b3499f98bb3.jpg',
       'yemekBilgisi':
       'Akşam yemeklerin vazgeçilmezi olan İzmir Köftesi; kıyma, galeta unu ve domates sosu ile hazırlanıyor. Klasik köftelerden en önemli farkı ise kendine ait özel domates sosu. Yalnızca İzmir için değil Türkiye için en önemli besinlerden biri olan İzmir köftesi, hem yaz hem de kış aylarında tercih ediliyor. Doyurucu bir yemek olan İzmir köftesi genellikle domates, biber de patates gibi sebzeler ile bir arada sunuluyor. Sulu bir yemeğe benzeyen dolayısıyla hem lezzetli hem besleyici olan İzmir Köftesi, özellikle akşam yemeği için hazırlanır.',
-      'enlem': 38.41994422800586,
-      'boylam': 27.13374328524143,
-      'restoranIsmi': 'Restoran ismi',
+      'enlem': 38.42008261148957,
+      'boylam': 27.13370206090745,
+      'restoranIsmi': 'Lina\'nın Mutfağı',
     },
     {
       'isim': 'İzmir Kumru',
@@ -31700,7 +31700,7 @@ class YemekSayfasiIzmir extends StatelessWidget {
       'Salam, sosis ve sucuk ile hazırlanan ve son olarak tulum peyniri ilave edilerek servis edilen kumru, İzmir’in ve Çeşme bölgesinin en sevilen yiyeceklerinden biri. Sabah kahvaltılarında ya da akşam saatlerinde tüketilebilecek dolayısıyla keyifli bir alternatif olan kumru, Türkiye’de en çok dikkat çeken atıştırmalıklardan biri. İzmir’den gelen ve en gözde lezzetlerden biri olan kumru, ketçap ve mayonez ile servis ediliyor. Türkiye’nin farklı noktalarında da kumruyla karşılaşmak mümkün. Ancak İzmir şehrinde yapılan ve orijinal kumrunun en önemli özelliği, kendine ait farklı ekmeği ve İzmir tulum peyniri ile hazırlanıyor olması. İçerisinde sosis, sucuk, salam ve peynir gibi pek çok farklı besini bulunduruyor olması oldukça besleyici hale gelmesini sağlıyor.',
       'enlem': 38.45166314758574,
       'boylam': 27.104763428607686,
-      'restoranIsmi': 'Restoran ismi',
+      'restoranIsmi': 'Lazzoni',
     },
   ];
 
